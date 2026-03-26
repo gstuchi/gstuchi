@@ -1,7 +1,8 @@
 <!-- Header -->
 <div align="center">
+
 ```
- ██████╗ ██╗ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗██╗
+██████╗ ██╗ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗██╗
 ██╔════╝ ██║██╔═══██╗██║   ██║██╔══██╗████╗  ██║██║
 ██║  ███╗██║██║   ██║██║   ██║███████║██╔██╗ ██║██║
 ██║   ██║██║██║   ██║╚██╗ ██╔╝██╔══██║██║╚██╗██║██║
@@ -14,6 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanistuchieng-computa%C3%A7%C3%A3o/)
 [![Gmail](https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stuchigiovani@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gstuchi)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=gstuchi&color=0A0A0A&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -21,17 +23,25 @@
 ---
 
 <!-- About Me -->
+## `$ whoami`
 
+```python
+class GiovaniStuchi:
+    name       = "Giovani Stuchi"
+    role       = "Backend Developer"
+    location   = "Brasil 🇧🇷"
+    languages  = ["Python", "Node.js", "Java"]
+    focus      = ["APIs REST", "Arquitetura de Software", "Performance"]
+    available  = True
+```
 
 > Desenvolvedor Backend apaixonado por construir sistemas robustos, escaláveis e bem estruturados.
 > Sempre buscando as melhores práticas de engenharia de software e soluções elegantes para problemas complexos.
 
-**Localização:** Brasil 🇧🇷 &nbsp;·&nbsp; **Disponível:** ✅
-
 ---
 
 <!-- Tech Stack -->
-## tech --stack
+## `$ tech --stack`
 
 **Linguagens**
 
@@ -60,18 +70,47 @@
 ---
 
 <!-- GitHub Stats -->
-## git stats
+## `$ git stats`
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gstuchi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=888888&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstuchi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=888888&langs_count=6"/>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gstuchi&theme=dark&hide_border=true&background=0D1117&stroke=ffffff10&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&currStreakNum=ffffff&sideNums=ffffff"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gstuchi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=888888&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstuchi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=888888&langs_count=6"/>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gstuchi&theme=dark&hide_border=true&background=0D1117&stroke=ffffff10&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&currStreakNum=ffffff&sideNums=ffffff"/>
+
 </div>
 
+---
 
+<!-- Featured Projects -->
+## `$ ls ./projects`
+
+> 🚧 *Projetos em destaque em breve — fique de olho!*
+
+<!-- Descomente e edite o bloco abaixo para adicionar seus projetos:
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📦 Nome do Projeto</h3>
+      <p>Descrição curta do projeto, tecnologias utilizadas e objetivo principal.</p>
+      <a href="#">🔗 Repositório</a>
+    </td>
+    <td width="50%">
+      <h3>📦 Nome do Projeto</h3>
+      <p>Descrição curta do projeto, tecnologias utilizadas e objetivo principal.</p>
+      <a href="#">🔗 Repositório</a>
+    </td>
+  </tr>
+</table>
+
+-->
+
+---
 
 <!-- Contact -->
-## contact --info
+## `$ contact --info`
 
 <div align="center">
 
