@@ -58,13 +58,13 @@ class GiovaniStuchi:
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Redis](https://img.shields.io/badge/Redis-0A0A0A?style=for-the-badge&logo=redis&logoColor=DC382D)
+
 
 **DevOps & Infra**
 
-![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED)
+
 ![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624)
+
 
 ---
 
