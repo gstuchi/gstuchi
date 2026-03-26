@@ -1,6 +1,5 @@
 <!-- Header -->
 <div align="center">
-
 ```
  ██████╗ ██╗ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗██╗
 ██╔════╝ ██║██╔═══██╗██║   ██║██╔══██╗████╗  ██║██║
@@ -22,25 +21,17 @@
 ---
 
 <!-- About Me -->
-## <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&repeat=false&width=200&lines=%24+whoami" />
-
-```python
-class GiovaniStuchi:
-    name      = "Giovani Stuchi"
-    role      = "Backend Developer"
-    location  = "Brasil 🇧🇷"
-    languages = ["Python", "Node.js", "Java"]
-    focus     = ["APIs REST", "Arquitetura de Software", "Performance"]
-    available = True
-```
+## whoami
 
 > Desenvolvedor Backend apaixonado por construir sistemas robustos, escaláveis e bem estruturados.
 > Sempre buscando as melhores práticas de engenharia de software e soluções elegantes para problemas complexos.
 
+**Localização:** Brasil 🇧🇷 &nbsp;·&nbsp; **Disponível:** ✅
+
 ---
 
 <!-- Tech Stack -->
-## <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&repeat=false&width=300&lines=%24+tech+--stack" />
+## tech --stack
 
 **Linguagens**
 
@@ -69,7 +60,7 @@ class GiovaniStuchi:
 ---
 
 <!-- GitHub Stats -->
-## <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&repeat=false&width=220&lines=%24+git+stats" />
+## git stats
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gstuchi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=888888&count_private=true"/>
@@ -80,31 +71,14 @@ class GiovaniStuchi:
 ---
 
 <!-- Featured Projects -->
-## <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&repeat=false&width=260&lines=%24+ls+.%2Fprojects" />
+## ls ./projects
 
 > 🚧 *Projetos em destaque em breve — fique de olho!*
-
-<!-- Descomente e edite o bloco abaixo para adicionar seus projetos:
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📦 Nome do Projeto</h3>
-      <p>Descrição curta do projeto, tecnologias utilizadas e objetivo principal.</p>
-      <a href="#">🔗 Repositório</a>
-    </td>
-    <td width="50%">
-      <h3>📦 Nome do Projeto</h3>
-      <p>Descrição curta do projeto, tecnologias utilizadas e objetivo principal.</p>
-      <a href="#">🔗 Repositório</a>
-    </td>
-  </tr>
-</table>
--->
 
 ---
 
 <!-- Contact -->
-## <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&repeat=false&width=280&lines=%24+contact+--info" />
+## contact --info
 
 <div align="center">
 
