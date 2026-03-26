@@ -21,7 +21,7 @@
 ---
 
 <!-- About Me -->
-## whoami
+
 
 > Desenvolvedor Backend apaixonado por construir sistemas robustos, escaláveis e bem estruturados.
 > Sempre buscando as melhores práticas de engenharia de software e soluções elegantes para problemas complexos.
@@ -68,14 +68,7 @@
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gstuchi&theme=dark&hide_border=true&background=0D1117&stroke=ffffff10&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&currStreakNum=ffffff&sideNums=ffffff"/>
 </div>
 
----
 
-<!-- Featured Projects -->
-## ls ./projects
-
-> 🚧 *Projetos em destaque em breve — fique de olho!*
-
----
 
 <!-- Contact -->
 ## contact --info
