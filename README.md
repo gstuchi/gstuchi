@@ -22,7 +22,7 @@
 ---
 
 <!-- About Me -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=40&section=header&text=%24%20whoami&fontSize=22&fontColor=ffffff&fontAlign=5&fontAlignY=65&desc=&animation=fadeIn" width="100%"/>
+## <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&repeat=false&width=200&lines=%24+whoami" />
 
 ```python
 class GiovaniStuchi:
@@ -35,12 +35,12 @@ class GiovaniStuchi:
 ```
 
 > Desenvolvedor Backend apaixonado por construir sistemas robustos, escaláveis e bem estruturados.
-> > Sempre buscando as melhores práticas de engenharia de software e soluções elegantes para problemas complexos.
-> >
-> > ---
-> >
-> > <!-- Tech Stack -->
-> > <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=40&section=header&text=%24%20tech%20--stack&fontSize=22&fontColor=ffffff&fontAlign=7&fontAlignY=65&animation=fadeIn" width="100%"/>
+> Sempre buscando as melhores práticas de engenharia de software e soluções elegantes para problemas complexos.
+
+---
+
+<!-- Tech Stack -->
+## <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&repeat=false&width=300&lines=%24+tech+--stack" />
 
 **Linguagens**
 
@@ -69,42 +69,42 @@ class GiovaniStuchi:
 ---
 
 <!-- GitHub Stats -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=40&section=header&text=%24%20git%20stats&fontSize=22&fontColor=ffffff&fontAlign=6&fontAlignY=65&animation=fadeIn" width="100%"/>
+## <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&repeat=false&width=220&lines=%24+git+stats" />
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gstuchi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=888888&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstuchi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=888888&langs_count=6"/>
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gstuchi&theme=dark&hide_border=true&background=0D1117&stroke=ffffff10&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&currStreakNum=ffffff&sideNums=ffffff"/>
-</div>div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstuchi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=888888&langs_count=6"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gstuchi&theme=dark&hide_border=true&background=0D1117&stroke=ffffff10&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&currStreakNum=ffffff&sideNums=ffffff"/>
+</div>
 
 ---
 
 <!-- Featured Projects -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=40&section=header&text=%24%20ls%20.%2Fprojects&fontSize=22&fontColor=ffffff&fontAlign=7&fontAlignY=65&animation=fadeIn" width="100%"/>
+## <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&repeat=false&width=260&lines=%24+ls+.%2Fprojects" />
 
 > 🚧 *Projetos em destaque em breve — fique de olho!*
->
-> <!-- Descomente e edite o bloco abaixo para adicionar seus projetos:
-> <table>
->   <tr>
->     <td width="50%">
->       <h3>📦 Nome do Projeto</h3>
->       <p>Descrição curta do projeto, tecnologias utilizadas e objetivo principal.</p>
->       <a href="#">🔗 Repositório</a>
->     </td>
->     <td width="50%">
->       <h3>📦 Nome do Projeto</h3>
->       <p>Descrição curta do projeto, tecnologias utilizadas e objetivo principal.</p>
->       <a href="#">🔗 Repositório</a>
->     </td>
->   </tr>
-> </table>
-> -->
->
-> ---
->
-> <!-- Contact -->
-> <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=40&section=header&text=%24%20contact%20--info&fontSize=22&fontColor=ffffff&fontAlign=8&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<!-- Descomente e edite o bloco abaixo para adicionar seus projetos:
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📦 Nome do Projeto</h3>
+      <p>Descrição curta do projeto, tecnologias utilizadas e objetivo principal.</p>
+      <a href="#">🔗 Repositório</a>
+    </td>
+    <td width="50%">
+      <h3>📦 Nome do Projeto</h3>
+      <p>Descrição curta do projeto, tecnologias utilizadas e objetivo principal.</p>
+      <a href="#">🔗 Repositório</a>
+    </td>
+  </tr>
+</table>
+-->
+
+---
+
+<!-- Contact -->
+## <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&repeat=false&width=280&lines=%24+contact+--info" />
 
 <div align="center">
 
@@ -119,5 +119,5 @@ class GiovaniStuchi:
 ---
 
 <div align="center">
-  <sub>Feito com 🖤 por Giovani Stuchi</sub>sub>
-</div>div></sub>
+  <sub>Feito com 🖤 por Giovani Stuchi</sub>
+</div>
