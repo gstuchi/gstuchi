@@ -2,7 +2,7 @@
 <div align="center">
 
 ```
-██████╗ ██╗ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗██╗
+ ██████╗ ██╗ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗██╗
 ██╔════╝ ██║██╔═══██╗██║   ██║██╔══██╗████╗  ██║██║
 ██║  ███╗██║██║   ██║██║   ██║███████║██╔██╗ ██║██║
 ██║   ██║██║██║   ██║╚██╗ ██╔╝██╔══██║██║╚██╗██║██║
@@ -15,7 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanistuchieng-computa%C3%A7%C3%A3o/)
 [![Gmail](https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stuchigiovani@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gstuchi)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=gstuchi&color=0A0A0A&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -23,25 +22,25 @@
 ---
 
 <!-- About Me -->
-## `$ whoami`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=40&section=header&text=%24%20whoami&fontSize=22&fontColor=ffffff&fontAlign=5&fontAlignY=65&desc=&animation=fadeIn" width="100%"/>
 
 ```python
 class GiovaniStuchi:
-    name       = "Giovani Stuchi"
-    role       = "Backend Developer"
-    location   = "Brasil 🇧🇷"
-    languages  = ["Python", "Node.js", "Java"]
-    focus      = ["APIs REST", "Arquitetura de Software", "Performance"]
-    available  = True
+    name      = "Giovani Stuchi"
+    role      = "Backend Developer"
+    location  = "Brasil 🇧🇷"
+    languages = ["Python", "Node.js", "Java"]
+    focus     = ["APIs REST", "Arquitetura de Software", "Performance"]
+    available = True
 ```
 
 > Desenvolvedor Backend apaixonado por construir sistemas robustos, escaláveis e bem estruturados.
-> Sempre buscando as melhores práticas de engenharia de software e soluções elegantes para problemas complexos.
-
----
-
-<!-- Tech Stack -->
-## `$ tech --stack`
+> > Sempre buscando as melhores práticas de engenharia de software e soluções elegantes para problemas complexos.
+> >
+> > ---
+> >
+> > <!-- Tech Stack -->
+> > <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=40&section=header&text=%24%20tech%20--stack&fontSize=22&fontColor=ffffff&fontAlign=7&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 **Linguagens**
 
@@ -70,47 +69,42 @@ class GiovaniStuchi:
 ---
 
 <!-- GitHub Stats -->
-## `$ git stats`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=40&section=header&text=%24%20git%20stats&fontSize=22&fontColor=ffffff&fontAlign=6&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gstuchi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=888888&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstuchi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=888888&langs_count=6"/>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gstuchi&theme=dark&hide_border=true&background=0D1117&stroke=ffffff10&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&currStreakNum=ffffff&sideNums=ffffff"/>
-
-</div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gstuchi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=888888&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstuchi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=888888&langs_count=6"/>
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gstuchi&theme=dark&hide_border=true&background=0D1117&stroke=ffffff10&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&currStreakNum=ffffff&sideNums=ffffff"/>
+</div>div>
 
 ---
 
 <!-- Featured Projects -->
-## `$ ls ./projects`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=40&section=header&text=%24%20ls%20.%2Fprojects&fontSize=22&fontColor=ffffff&fontAlign=7&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 > 🚧 *Projetos em destaque em breve — fique de olho!*
-
-<!-- Descomente e edite o bloco abaixo para adicionar seus projetos:
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📦 Nome do Projeto</h3>
-      <p>Descrição curta do projeto, tecnologias utilizadas e objetivo principal.</p>
-      <a href="#">🔗 Repositório</a>
-    </td>
-    <td width="50%">
-      <h3>📦 Nome do Projeto</h3>
-      <p>Descrição curta do projeto, tecnologias utilizadas e objetivo principal.</p>
-      <a href="#">🔗 Repositório</a>
-    </td>
-  </tr>
-</table>
-
--->
-
----
-
-<!-- Contact -->
-## `$ contact --info`
+>
+> <!-- Descomente e edite o bloco abaixo para adicionar seus projetos:
+> <table>
+>   <tr>
+>     <td width="50%">
+>       <h3>📦 Nome do Projeto</h3>
+>       <p>Descrição curta do projeto, tecnologias utilizadas e objetivo principal.</p>
+>       <a href="#">🔗 Repositório</a>
+>     </td>
+>     <td width="50%">
+>       <h3>📦 Nome do Projeto</h3>
+>       <p>Descrição curta do projeto, tecnologias utilizadas e objetivo principal.</p>
+>       <a href="#">🔗 Repositório</a>
+>     </td>
+>   </tr>
+> </table>
+> -->
+>
+> ---
+>
+> <!-- Contact -->
+> <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=40&section=header&text=%24%20contact%20--info&fontSize=22&fontColor=ffffff&fontAlign=8&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -125,6 +119,5 @@ class GiovaniStuchi:
 ---
 
 <div align="center">
-  <sub>Feito com 🖤 por Giovani Stuchi</sub>
-</div>
-
+  <sub>Feito com 🖤 por Giovani Stuchi</sub>sub>
+</div>div></sub>
