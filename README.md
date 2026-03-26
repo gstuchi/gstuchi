@@ -77,31 +77,7 @@ class GiovaniStuchi:
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gstuchi&theme=dark&hide_border=true&background=0D1117&stroke=ffffff10&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&currStreakNum=ffffff&sideNums=ffffff"/>
 </div>
 
----
 
-<!-- Featured Projects -->
-## <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&repeat=false&width=260&lines=%24+ls+.%2Fprojects" />
-
-> 🚧 *Projetos em destaque em breve — fique de olho!*
-
-<!-- Descomente e edite o bloco abaixo para adicionar seus projetos:
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📦 Nome do Projeto</h3>
-      <p>Descrição curta do projeto, tecnologias utilizadas e objetivo principal.</p>
-      <a href="#">🔗 Repositório</a>
-    </td>
-    <td width="50%">
-      <h3>📦 Nome do Projeto</h3>
-      <p>Descrição curta do projeto, tecnologias utilizadas e objetivo principal.</p>
-      <a href="#">🔗 Repositório</a>
-    </td>
-  </tr>
-</table>
--->
-
----
 
 <!-- Contact -->
 ## <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&repeat=false&width=280&lines=%24+contact+--info" />
