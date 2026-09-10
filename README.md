@@ -32,7 +32,12 @@ class GiovaniStuchi:
     languages = ["Python", "Node.js", "Java"]
     focus     = ["APIs REST", "Arquitetura de Software", "Performance"]
     available = True
+```
 
+> Desenvolvedor Backend apaixonado por construir sistemas robustos, escaláveis e bem estruturados.
+> Sempre buscando as melhores práticas de engenharia de software e soluções elegantes para problemas complexos.
+
+---
 
 <!-- Tech Stack -->
 ## <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&repeat=false&width=300&lines=%24+tech+--stack" />
@@ -82,5 +87,5 @@ class GiovaniStuchi:
 ---
 
 <div align="center">
-  <sub>Feito com 🖤 por Giovani Stuchi</sub>
+  
 </div>
