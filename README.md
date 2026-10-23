@@ -28,7 +28,7 @@
 class GiovaniStuchi:
     name      = "Giovani Stuchi"
     role      = "Backend Developer"
-    location  = "Brasil 🇧🇷"
+    location  = "São Paulo 🇧🇷 · Flórida 🇺🇸"
     languages = ["Python", "Node.js", "Java"]
     focus     = ["APIs REST", "Arquitetura de Software", "Performance"]
     available = True
