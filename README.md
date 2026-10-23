@@ -31,6 +31,7 @@ class GiovaniStuchi:
     location  = "Brasil 🇧🇷"
     languages = ["Python", "Node.js", "Java"]
     focus     = ["APIs REST", "Arquitetura de Software", "Performance"]
+    building  = "Custta — custo real por obra"
     available = True
 ```
 
