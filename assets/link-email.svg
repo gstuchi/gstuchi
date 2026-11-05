@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 40" width="150" height="40" role="img" aria-label="email">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 16px; fill: #FAF9F5; }
+.big { font-size: 28px; font-weight: 700; }
+.name { font-size: 18px; font-weight: 700; }
+.stat { font-size: 24px; font-weight: 700; }
+.small { font-size: 13px; }
+.desc { font-size: 15px; }
+.muted { fill: #B0AEA5; }
+.accent { fill: #D97757; }
+.live { fill: #7FB685; }
+</style>
+<rect width="150" height="40" rx="14" fill="#141413"/>
+<rect x=".5" y=".5" width="149" height="39" rx="13.5" fill="none" stroke="#3A3935"/>
+<text x="75" y="26" text-anchor="middle"><tspan class="accent">&gt;</tspan> email</text>
+</svg>
