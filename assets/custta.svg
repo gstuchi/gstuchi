@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" width="720" height="300" role="img" aria-label="custta: what each construction project really costs and earned. PWA in production, native SwiftUI app on TestFlight, 99 merged PRs.">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 16px; fill: #FAF9F5; }
+.big { font-size: 28px; font-weight: 700; }
+.name { font-size: 18px; font-weight: 700; }
+.stat { font-size: 24px; font-weight: 700; }
+.small { font-size: 13px; }
+.desc { font-size: 15px; }
+.muted { fill: #B0AEA5; }
+.accent { fill: #D97757; }
+.live { fill: #7FB685; }
+</style>
+<rect width="720" height="300" rx="14" fill="#141413"/>
+<rect x=".5" y=".5" width="719" height="299" rx="13.5" fill="none" stroke="#3A3935"/>
+<text x="28" y="40"><tspan class="accent">&gt;</tspan> cat ./now-building</text>
+<text class="big" x="28" y="82">custta.</text>
+<text class="muted" x="28" y="114">What each construction project really costs, and what it</text>
+<text class="muted" x="28" y="140">actually earned compared with leaving the money in the bank.</text>
+<rect x="28" y="166" width="212" height="76" rx="8" fill="#1F1F1D" stroke="#3A3935"/><text class="stat live" x="44" y="200">live</text><text class="small muted" x="44" y="225">PWA in production</text>
+<rect x="254" y="166" width="212" height="76" rx="8" fill="#1F1F1D" stroke="#3A3935"/><text class="stat " x="270" y="200">TestFlight</text><text class="small muted" x="270" y="225">native SwiftUI app</text>
+<rect x="480" y="166" width="212" height="76" rx="8" fill="#1F1F1D" stroke="#3A3935"/><text class="stat " x="496" y="200">99</text><text class="small muted" x="496" y="225">merged PRs</text>
+<text class="small muted" x="28" y="274">SwiftUI · Firebase · GitHub Actions · Playwright</text>
+<text class="small accent" x="692" y="274" text-anchor="end">view source →</text>
+</svg>

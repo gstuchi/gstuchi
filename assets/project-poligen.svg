@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 84" width="720" height="84" role="img" aria-label="PoliGen-AI, full-stack. Educational image generation with Poliedro. Flutter + TypeScript">
+<style>
+text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 16px; fill: #FAF9F5; }
+.big { font-size: 28px; font-weight: 700; }
+.name { font-size: 18px; font-weight: 700; }
+.stat { font-size: 24px; font-weight: 700; }
+.small { font-size: 13px; }
+.desc { font-size: 15px; }
+.muted { fill: #B0AEA5; }
+.accent { fill: #D97757; }
+.live { fill: #7FB685; }
+</style>
+<rect width="720" height="84" rx="14" fill="#141413"/>
+<rect x=".5" y=".5" width="719" height="83" rx="13.5" fill="none" stroke="#3A3935"/>
+<text class="name" x="28" y="36">PoliGen-AI</text><text class="small accent" x="692" y="36" text-anchor="end">full-stack →</text><text class="desc muted" x="28" y="62">Educational image generation with Poliedro. Flutter + TypeScript</text>
+</svg>
