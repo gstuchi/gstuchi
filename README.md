@@ -1,92 +1,23 @@
-<!-- Header -->
-<div align="center">
+<a href="https://giovanistuchi.com">
+  <img src="assets/terminal.svg" width="100%" alt="Giovani Stuchi, developer and builder. Shipping custta, PoliGen-AI and Nutri Esportiva. Stack: Swift, JavaScript, TypeScript, Firebase and Claude Code.">
+</a>
 
-```
- ██████╗ ██╗ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗██╗
-██╔════╝ ██║██╔═══██╗██║   ██║██╔══██╗████╗  ██║██║
-██║  ███╗██║██║   ██║██║   ██║███████║██╔██╗ ██║██║
-██║   ██║██║██║   ██║╚██╗ ██╔╝██╔══██║██║╚██╗██║██║
-╚██████╔╝██║╚██████╔╝ ╚████╔╝ ██║  ██║██║ ╚████║██║
- ╚═════╝ ╚═╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝
-```
+[Website](https://giovanistuchi.com) · [LinkedIn](https://www.linkedin.com/in/giovanistuchieng-computa%C3%A7%C3%A3o/) · [Email](mailto:stuchigiovani@gmail.com) · São Paulo and Florida
 
-### Giovani Stuchi · Backend Developer
+## Now building
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanistuchieng-computa%C3%A7%C3%A3o/)
-[![Gmail](https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stuchigiovani@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gstuchi)
-![Profile Views](https://komarev.com/ghpvc/?username=gstuchi&color=0A0A0A&style=for-the-badge&label=PROFILE+VIEWS)
+**[custta.](https://custta.com.br)** shows builders what each construction project really costs and how much it actually earned, compared with leaving the money in the bank. I founded it and build it end to end: PWA in production, native SwiftUI app on TestFlight, shared Firebase backend.
 
-</div>
+99 merged PRs, CI on GitHub Actions and end-to-end tests with Playwright. [See the code](https://github.com/gstuchi/app_construcao_civil).
 
----
+## Also shipped
 
-<!-- About Me -->
-## <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&repeat=false&width=200&lines=%24+whoami" />
+| Project | What it is | My role |
+| --- | --- | --- |
+| PoliGen-AI | Educational image generation, with Poliedro. Flutter and TypeScript | Full-stack |
+| [Nutri Esportiva](https://github.com/gstuchi/nutri-esportiva) | App for tracking sports sessions. React and Prisma | Product owner |
+| [Study planner](https://cronograma-estudos-chi.vercel.app) | My own study schedule. Next.js and Tailwind | Solo |
 
-```python
-class GiovaniStuchi:
-    name      = "Giovani Stuchi"
-    role      = "Backend Developer"
-    location  = "São Paulo 🇧🇷 · Flórida 🇺🇸"
-    languages = ["Python", "Node.js", "Java"]
-    focus     = ["APIs REST", "Arquitetura de Software", "Performance"]
-    building  = "Custta — custo real por obra"
-    available = True
-```
+## How I build with AI
 
-> Desenvolvedor Backend apaixonado por construir sistemas robustos, escaláveis e bem estruturados.
-> Sempre buscando as melhores práticas de engenharia de software e soluções elegantes para problemas complexos.
-
----
-
-<!-- Tech Stack -->
-## <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&repeat=false&width=300&lines=%24+tech+--stack" />
-
-**Linguagens**
-
-![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB)
-![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=339933)
-![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-
-**Frameworks & Tools**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Express](https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-0A0A0A?style=for-the-badge&logo=spring&logoColor=6DB33F)
-
-**Banco de Dados**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=47A248)
-
-
-**DevOps & Infra**
-
-
-![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032)
-
-
----
-
-
-
-
-<!-- Contact -->
-## <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&repeat=false&width=280&lines=%24+contact+--info" />
-
-<div align="center">
-
-| Canal | Link |
-|-------|------|
-| 💼 LinkedIn | [giovanistuchi](https://www.linkedin.com/in/giovanistuchieng-computa%C3%A7%C3%A3o/) |
-| 📧 Email | [stuchigiovani@gmail.com](mailto:stuchigiovani@gmail.com) |
-| 🐙 GitHub | [@gstuchi](https://github.com/gstuchi) |
-
-</div>
-
----
-
-<div align="center">
-  
-</div>
+I use Claude Code as part of the daily workflow, with agents, skills and project context in `CLAUDE.md`. The rules stay the same as without AI: small commits, every change through a PR, and CI before merge.
