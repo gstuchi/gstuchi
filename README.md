@@ -7,5 +7,3 @@
 <a href="https://giovanistuchi.com"><img src="assets/project-poligen.svg" width="100%" alt="PoliGen-AI, full-stack. Educational image generation with Poliedro. Flutter and TypeScript."></a>
 
 <a href="https://github.com/gstuchi/nutri-esportiva"><img src="assets/project-nutri.svg" width="100%" alt="Nutri Esportiva, product owner. App for tracking sports sessions. React and Prisma."></a>
-
-<a href="https://cronograma-estudos-chi.vercel.app"><img src="assets/project-planner.svg" width="100%" alt="Study planner, solo. My own study schedule. Next.js and Tailwind."></a>
